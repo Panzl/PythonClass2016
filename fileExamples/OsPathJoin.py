@@ -13,3 +13,4 @@ for iSubj in subjects:
         dataFullPath = os.path.join(homeDir, iSubj, iExp)
         print(dataFullPath)
 
+
